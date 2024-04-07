@@ -1,0 +1,5 @@
+List of Xsl templates to format XML data from HCM Extract generated XML output
+a) Identity tranformation and display as it is xml 
+b) Display distinct Unique tags and path in xml  
+c) Display output of xml as Pipe seperated text output for given root element  and childerns
+d) Display partial data from xml for first 100 repeating element or so for Root Data Group to preview results
